@@ -9,10 +9,10 @@ This assignment is implementation of Uniform Cost Search which was a part of **A
 
 Details
 -------------
-> **Name:** Vipulkumar Mahadik
-> **Language:** Python
-> **Course:** Artificial Intelligence
-> **Course Number:** CSE5360
+> **Name:** Vipulkumar Mahadik.  
+> **Language:** Python.  
+> **Course:** Artificial Intelligence.  
+> **Course Number:** CSE5360.  
 
 
 ----------
