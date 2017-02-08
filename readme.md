@@ -30,7 +30,7 @@ Structure
 >- Else it prints the total cost returned by the function and then it displays the step by step path to destination.
 
 
-In depth explanation of code can be found in [file]().
+In depth explanation of code can be found in [Uniform Cost Search.ipynb](Uniform-Cost-Search/blob/master/Uniform%20Cost%20Search.ipynb).
 
 
 
